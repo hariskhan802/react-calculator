@@ -1,0 +1,18 @@
+.number-button {
+    width: 98px;
+}
+
+.number-button button {
+    width: 100%;
+    height: 40px;
+    box-shadow: 1px 1px 10px;
+}
+.operator-button {
+    width: 59px;
+}
+
+.operator-button button {
+    width: 100%;
+    height: 40px;
+    box-shadow: 1px 1px 10px;
+}
